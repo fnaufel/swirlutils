@@ -15,3 +15,5 @@ RoxygenNote: 7.1.1
 Imports: 
     swirl,
     swirlify
+URL: https://github.com/fnaufel/swirlutils
+BugReports: https://github.com/fnaufel/swirlutils/issues
